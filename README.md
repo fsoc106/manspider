@@ -1,3 +1,5 @@
+/!\ ITS NOT MY PROGRAM ! SOURCE : https://github.com/blacklanternsecurity/MANSPIDER /!\
+
 # MAN-SPIDER
 ### Crawl SMB shares for juicy information. File content searching + regex is supported!
 

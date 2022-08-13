@@ -1,5 +1,8 @@
 /!\ ITS NOT MY PROGRAM ! SOURCE : https://github.com/blacklanternsecurity/MANSPIDER /!\
 
+DONT FORGET INSTALL textract : 
+pip3 install textract
+
 # MAN-SPIDER
 ### Crawl SMB shares for juicy information. File content searching + regex is supported!
 
